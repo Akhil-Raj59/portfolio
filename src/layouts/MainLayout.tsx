@@ -50,7 +50,7 @@ const MainLayout = ({ children }: MainLayoutProps) => {
 
       {/* Optional: Footer */}
       <footer className="border-t py-8 text-center text-sm" style={{ borderColor: "rgb(var(--border-default))", color: "rgb(var(--text-muted))" }}>
-        <p>© 2024 Akhil Raj. Built with React & Tailwind CSS.</p>
+        <p>© 2026 Akhil Raj. Built with Passion.</p>
       </footer>
     </div>
   );
