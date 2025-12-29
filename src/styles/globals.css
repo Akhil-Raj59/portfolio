@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(var(--bg-primary));
+  color: rgb(var(--text-primary));
+}
+
+:root {
+  /* Backgrounds - Deep Obsidian */
+  --bg-primary: 2 2 5;           /* Very dark navy-black */
+  --bg-secondary: 15 15 20;      /* Dark slate */
+
+  /* Text - Crisp Zinc/White */
+  --text-primary: 244 244 245;   /* Zinc-100 */
+  --text-muted: 161 161 170;     /* Zinc-400 */
+
+  /* Accent - Hot Pink & Rose */
+  --accent-primary: 173 20 87;  /* Pink-800 */
+  --accent-secondary: 244 114 182; /* Pink-400 */
+
+  /* Border & UI */
+  --border-default: 39 39 42;    /* Zinc-800 */
+  --card-bg: 12 12 16;           /* Slightly lifted from background */
+}
