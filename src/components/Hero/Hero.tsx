@@ -383,13 +383,13 @@ const Hero = () => {
                     Currently at
                   </p>
                   <p className="mt-1 text-xl font-bold" style={{ color: "rgb(var(--text-primary))" }}>
-                    SaaviGenAI
+                   KREATIVE WERBUNG
                   </p>
                   <p 
                     className="text-sm font-medium"
                     style={{ color: 'rgb(var(--accent-primary))' }}
                   >
-                    Full Stack Developer
+                    Web Developer Intern
                   </p>
                 </motion.div>
               </div>
